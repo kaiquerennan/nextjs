@@ -1,10 +1,5 @@
 function home() {
-  return <div>cruzeiro</div>;
+  return <div>Projeto ERP</div>;
 }
 
 export default home;
-
-console.logn("oi");
-if (true) {
-  console.log("oi");
-}
